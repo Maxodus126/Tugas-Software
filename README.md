@@ -117,6 +117,5 @@ Project ini dibuat **khusus untuk keperluan akademik dan pembelajaran**.
 
 ## TEKNIK INFORMATIKA
 
----
 
 ## INSTITUT SAINS DAN TEKNOLOGI NASIONAL
