@@ -112,7 +112,7 @@ Project ini dibuat **khusus untuk keperluan akademik dan pembelajaran**.
 
 ---
 
-✨ *Dokumentasi ini disusun sebagai bagian dari tugas mata kuliah Software.*
+✨ *Dokumentasi ini disusun sebagai bagian dari tugas mata kuliah tugas mata kuliah Rekayasa Perangkat Lunak Lanjutan dan Desain Sistem.*
 
 
 ## TEKNIK INFORMATIKA
